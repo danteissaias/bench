@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "bench": "tsx bench.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.19.2"
+  }
+}
